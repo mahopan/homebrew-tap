@@ -1,8 +1,8 @@
 class Mn < Formula
   desc "Maho Notes CLI — personal knowledge base with multi-vault, FTS5+CJK search, GitHub sync"
   homepage "https://github.com/kuochuanpan/maho-notes"
-  url "https://github.com/kuochuanpan/maho-notes/archive/refs/tags/v0.7.0.tar.gz"
-  sha256 "23d0d626b031e01eeaa5823bffe292852fb14e24a7607cd43e7d7b0c74f272bc"
+  url "https://github.com/kuochuanpan/maho-notes/archive/refs/tags/v1.0.3.tar.gz"
+  sha256 "cb3e6247fa791fa87daba1c0e912f9df770a0ba71d3e889af00447f3a618d4bd"
   license :cannot_represent
 
   depends_on xcode: ["16.0", :build]
